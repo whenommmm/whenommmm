@@ -1,4 +1,5 @@
-                                                             # Hi, I'm Vansh Srivastava
+<h1 align="center">Hi, I'm Vansh Srivastava</h1>
+
 
 Game developer focused on building gameplay systems and interactive mechanics using Unity and C#. I enjoy experimenting with game ideas and turning them into playable prototypes to understand how different mechanics interact.
 
