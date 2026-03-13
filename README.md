@@ -1,4 +1,4 @@
-# Hi, I'm Vansh Srivastava
+                                                             # Hi, I'm Vansh Srivastava
 
 Game developer focused on building gameplay systems and interactive mechanics using Unity and C#. I enjoy experimenting with game ideas and turning them into playable prototypes to understand how different mechanics interact.
 
@@ -40,4 +40,5 @@ VS Code • Game Design • Gameplay Systems
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/vansh-srivastava-62a738356/
+
 Email: vanshsrivastavaqa@gmail.com
