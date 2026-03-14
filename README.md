@@ -22,7 +22,7 @@ Game developer focused on building gameplay systems and interactive mechanics us
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-<img src="https://cdn.simpleicons.org/gdevelop" width="60" height="60"/>
+<img src="./GDevelop/GDevelop_id4ygdhwu2_0.jpeg" width="60" height="60"/>
 
 
 
