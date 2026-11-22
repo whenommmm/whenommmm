@@ -83,4 +83,4 @@ AI writes most of my code. That leaves my time for the parts that make a game: w
 
 ## Education
 
-**Scaler School of Technology**, Bengaluru. Studying for a B.Sc. in Computer Science, awarded by BITS Pilani through its online programme (2024–2027).
+**Scaler School of Technology**, Bengaluru. Studying for a B.Sc. in Computer Science, awarded by BITS Pilani through its online programme (2024–2028).
